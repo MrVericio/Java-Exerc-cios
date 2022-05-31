@@ -3,5 +3,6 @@ Nesse repositório irei adicionar todos os exercícios realizados durante meu ap
 
 Conforme realizados os exercícios serão todos acrescentados. 📚
 
-[Hacker Rank] (https://www.hackerrank.com/marcosvericio)
+[Hacker Rank](https://www.hackerrank.com/marcosvericio)
+
 [URI-BeeCrowd](https://www.beecrowd.com.br/judge/pt/profile/643967)
